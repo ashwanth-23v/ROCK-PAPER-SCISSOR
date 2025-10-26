@@ -1,2 +1,2 @@
 # ROCK-PAPER-SCISSOR
-game
+game-https://ashwanth-23v.github.io/ROCK-PAPER-SCISSOR/
